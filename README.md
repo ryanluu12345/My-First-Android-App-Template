@@ -1,6 +1,8 @@
 # My-First-Android-App-Template
 Template used in Android development workshop during HackUCI 2018
 
+Slides: https://docs.google.com/presentation/d/1Q8X8GrsHLZXgITjVEDE4XvXRIL29TKVs4kEu61BnpAk/edit?usp=sharing
+
 # My-First-Android-App
 Introductory mobile application that was used for instructional purposes during HackUCI 2018. This tutorial is split up into 4 parts:
 1) Introductory information about Android
