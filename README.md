@@ -1,6 +1,7 @@
 # My-First-Android-App-Template
 Template used in Android development workshop during HackUCI 2018
 
+Full code: https://github.com/ryanluu12345/My-First-Android-App
 Slides: https://docs.google.com/presentation/d/1Q8X8GrsHLZXgITjVEDE4XvXRIL29TKVs4kEu61BnpAk/edit?usp=sharing
 
 # My-First-Android-App
